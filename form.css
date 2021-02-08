@@ -1,0 +1,105 @@
+
+body{
+	background-color:lightyellow;
+	background-image: url(dinding.jpg);
+	padding: 10px 10px;
+    text-align: center;
+}
+.countainer{
+    width: 100%;
+    height: 100%;
+}
+.button1{
+	width: 50%;
+	height: 55px;
+	margin-top: 25px;
+	font-size: 20px;
+	background-color: white;
+	font-family: fantasy;
+	border:5px solid black;
+	border-radius: 20px;
+	margin-left: 250px;
+}
+hr{
+	border-radius: solid;
+	background-color: black;
+	width: 900px;
+	height: 10px;
+}
+
+
+tbody{
+    text-align: center;
+    background-color: darkkhaki;
+}
+.form{
+	margin: auto;
+	width: 1000px;
+    height: 630px;
+	padding-top: 10px;
+	padding-left: 25px;
+    background-color:white;
+    text-align: left;
+    border: 5px solid grey;
+    border-radius: 20px;
+    border-style: solid;
+
+    border-color:darkslategrey;
+    background-image: url(elegant1.jpg);
+	margin-bottom: 30px;
+}
+label{
+	font-size: 30px;
+	text-transform: uppercase;
+	font-weight: bold;
+}
+.field{
+	margin-bottom: 10px;
+}
+.checkbox{
+	width: 30px;
+	height: 30px;
+}
+
+table{
+	margin:auto;
+	table-layout: fixed;
+	width: 100%;
+	height: 10px;
+}
+table thead{
+	background :black;
+	color : #ffff;
+	width:100%;
+
+} 
+
+.page{
+	border-style: solid;
+    font-size: 30px;
+	border-radius: 5px;
+	margin-top: 20px;
+	margin-bottom: 20px;
+	background-color: white;
+}
+.myInput{
+	border-radius: 10px;
+	border:5px solid black;
+}
+.page {
+	display: inline-block;
+  }
+  
+  .page a {
+	color: black;
+	float: left;
+	padding: 8px 16px;
+	text-decoration: none;
+  }
+  
+  .page a.active {
+	background-color: #4CAF50;
+	color: white;
+  }
+  
+  .page a:hover:not(.active) {background-color: #ddd;}
