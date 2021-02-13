@@ -1,0 +1,122 @@
+/* label{
+    display: inline-block;
+    width: 150px;
+    margin-left: 30px;
+    margin-bottom: 10px;
+    font-weight: bold;
+}
+.countainer{
+    border-style: solid;
+    width: 600px;
+    height: 300px;
+    margin: auto;
+    margin-bottom: 50px;
+    border-radius: 10px;
+    padding: 15px;
+}
+.button1{
+    width : 50%;
+    margin-top: 30px;
+    margin-left: 100px;
+    
+}
+hr{
+	border-radius: solid;
+	background-color: black;
+	width: 550px;
+	height: 10px;
+} */
+
+.countainer{
+    width: 100%;
+    height: 100%;
+}
+.button1{
+	width: 50%;
+	height: 35px;
+	margin-top: 25px;
+	font-size: 20px;
+	background-color: white;
+	font-family: fantasy;
+	border:5px solid black;
+	border-radius: 20px;
+	margin-left:25%;
+}
+hr{
+	border-radius: solid;
+	background-color: black;
+	width: 550px;
+	height: 10px;
+}
+
+
+tbody{
+    text-align: center;
+    background-color: darkkhaki;
+	font-weight: bold;
+}
+.form{
+	margin: auto;
+    margin-top: 30px;
+	width: 600px;
+    height: 500px;
+	padding-top: 10px;
+	padding-left: 25px;
+    background-color:white;
+    text-align: left;
+    border: 5px solid grey;
+    border-radius: 20px;
+    border-style: solid;
+    border-color:darkslategrey;
+	margin-bottom: 30px;
+}
+label{
+    margin-top: 15px;
+    display: inline-block;
+    width: 150px;
+    margin-right: 100px;
+	font-size: 30px;
+	font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+	font-weight: bold;
+}
+.field{
+	margin-bottom: 10px;
+}
+ .inputData{
+    font-size: 30px;
+    text-align: center;
+     margin-bottom: 30px;
+     text-transform: uppercase;
+     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+     font-weight: bold;
+ }
+
+table{
+	margin:auto;
+	table-layout: fixed;
+	text-align: center;
+	width: 100%;
+	height: 10px;
+	margin-top: 15px;
+    margin-bottom: 150px;
+}
+table thead{
+	background :black;
+	color : #ffff;
+	width:100%;
+
+} 
+input{
+    width: 330px;
+    height : 30px;
+}
+h1{
+    text-align: center;
+    background-color: chocolate;
+    height: 100px;
+    box-shadow: 5px 10px #888888;
+    margin-top: 10px;
+    text-transform: uppercase;
+    padding-top: 30px;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif
+}
